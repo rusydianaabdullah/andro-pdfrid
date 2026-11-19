@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- A sheet with a folded corner, sitting slightly off-centre so the fold reads as depth.
+         Adaptive icons crop to a circle on many launchers, so everything stays inside the
+         middle 72dp safe zone. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.28"
+        android:pathData="M44,26h16l12,12v30c0,2.2 -1.8,4 -4,4H44c-2.2,0 -4,-1.8 -4,-4V30C40,27.8 41.8,26 44,26z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,32h18l14,14v32c0,2.8 -2.2,5 -5,5H38c-2.8,0 -5,-2.2 -5,-5V37C33,34.2 35.2,32 38,32z" />
+    <!-- The fold itself, cut back to the background colour rather than drawn as a line. -->
+    <path
+        android:fillColor="#C8322B"
+        android:fillAlpha="0.22"
+        android:pathData="M56,32l14,14H60c-2.2,0 -4,-1.8 -4,-4V32z" />
+    <!-- Three text lines, the shortest last, so the mark reads as a document at 48dp. -->
+    <path
+        android:fillColor="#C8322B"
+        android:pathData="M41,56h21v5H41zM41,65h21v5H41zM41,47h12v5H41z" />
+</vector>

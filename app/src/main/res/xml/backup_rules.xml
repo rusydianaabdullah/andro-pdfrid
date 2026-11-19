@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="sharedpref" path="pdf_lite.xml" />
+    <include domain="file" path="annotations/" />
+</full-backup-content>

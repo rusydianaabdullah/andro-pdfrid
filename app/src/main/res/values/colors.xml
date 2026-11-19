@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The red every PDF app uses. A document icon in this colour reads as "PDF" before the
+         label is even read, which is worth more than being distinctive. -->
+    <color name="ic_launcher_background">#C8322B</color>
+</resources>

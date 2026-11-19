@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pdfrid - Offline Pdf Reader</string>
+
+    <string name="action_open">Buka PDF</string>
+    <string name="action_back">Kembali</string>
+    <string name="action_pages">Halaman</string>
+    <string name="action_rotate">Putar</string>
+    <string name="action_night_mode">Mode malam</string>
+    <string name="action_share">Bagikan</string>
+    <string name="action_print">Cetak</string>
+    <string name="action_forget">Hapus dari riwayat</string>
+
+    <string name="page_of">%1$d dari %2$d</string>
+    <string name="page_number">Halaman %1$d</string>
+
+    <string name="action_select_all">Pilih halaman</string>
+    <string name="action_find">Temukan</string>
+    <string name="action_annotate">Anotasi</string>
+    <string name="action_highlight">Stabilo</string>
+    <string name="action_underline">Garis bawah</string>
+    <string name="action_strikethrough">Coret</string>
+    <string name="action_brush">Kuas</string>
+    <string name="action_note">Catatan</string>
+    <string name="action_undo">Urungkan</string>
+    <string name="action_annotations">Anotasi</string>
+    <string name="action_export_annotated">Ekspor salinan beranotasi</string>
+    <string name="action_clear_annotations">Hapus semua tanda</string>
+    <string name="action_delete">Hapus</string>
+    <string name="action_save">Simpan</string>
+    <string name="note_hint">Tulis catatan…</string>
+    <string name="note_title">Catatan di halaman %1$d</string>
+    <string name="no_annotations">Belum ada tanda. Pilih alat lalu seret pada teks, atau gambar dengan kuas.</string>
+    <string name="exporting">Menyiapkan salinan beranotasi…</string>
+    <string name="export_failed">Dokumen ini tidak dapat diekspor.</string>
+    <string name="hint_markup">Tekan lama lalu seret pada teks untuk menandainya.</string>
+    <string name="hint_brush">Seret untuk menggambar. Gulir mati selama kuas aktif.</string>
+    <string name="hint_note">Ketuk halaman untuk menaruh catatan.</string>
+    <string name="unknown_length">Dokumen PDF</string>
+    <string name="empty_recents">Belum ada dokumen.\n\nBuka sebuah PDF untuk memulai — berkas akan muncul di sini agar Anda bisa melanjutkan dari halaman terakhir.</string>
+    <string name="error_open">Berkas ini tidak dapat dibuka. Mungkin rusak atau bukan PDF.</string>
+    <string name="action_search">Cari</string>
+    <string name="action_more">Lainnya</string>
+    <string name="action_copy">Salin</string>
+    <string name="action_copy_page_text">Salin teks halaman ini</string>
+    <string name="action_done">Selesai</string>
+    <string name="action_clear">Hapus</string>
+    <string name="action_next_match">Hasil berikutnya</string>
+    <string name="action_previous_match">Hasil sebelumnya</string>
+    <string name="action_unlock">Buka</string>
+    <string name="action_cancel">Batal</string>
+    <string name="search_hint">Cari dalam dokumen</string>
+    <string name="searching">Mencari…</string>
+    <string name="no_matches">Tidak ditemukan</string>
+    <string name="match_of">%1$d/%2$d</string>
+    <string name="copied">Disalin ke papan klip</string>
+    <string name="no_text_on_page">Tidak ada teks di halaman ini</string>
+    <string name="no_text_selected">Tidak ada yang dipilih</string>
+    <string name="password_title">Perlu kata sandi</string>
+    <string name="password_body">Dokumen ini terenkripsi. Masukkan kata sandinya untuk membuka.</string>
+
+    <string name="action_add_text">Tambah teks</string>
+    <string name="text_hint">Ketik teks…</string>
+    <string name="text_title">Teks di halaman %1$d</string>
+    <string name="hint_text">Ketuk halaman untuk menulis teks di sana.</string>
+
+    <string name="tools_title">Alat</string>
+    <string name="recents_title">Terakhir dibuka</string>
+    <string name="tool_split">Pisah</string>
+    <string name="tool_split_hint">Potong PDF menjadi beberapa berkas. Teks dan tata letak tetap utuh.</string>
+    <string name="tool_merge">Gabung</string>
+    <string name="tool_merge_hint">Satukan beberapa PDF sesuai urutan yang Anda susun.</string>
+    <string name="tool_ranges">Halaman</string>
+    <string name="tool_ranges_hint">mis. 1-3, 5, 8-10 \u2014 dokumen ini punya %1$d halaman. Kosongkan untuk satu berkas per halaman.</string>
+    <string name="tool_pick_pdf">Pilih PDF</string>
+    <string name="tool_run">Jalankan</string>
+    <string name="tool_done">%1$d berkas siap</string>
+    <string name="tool_failed">Gagal. Berkas mungkin rusak atau terproteksi.</string>
+    <string name="action_retry">Coba lagi</string>
+    <string name="opening">Membuka…</string>
+
+    <string name="action_about">Tentang</string>
+    <string name="about_version_format">Versi %1$s</string>
+    <string name="about_tagline">Pembaca PDF yang membaca, memberi anotasi, dan mengelola — tidak lebih, tidak ada yang dikirim ke mana pun.</string>
+    <string name="about_highlight_annotate">Stabilo, garis bawah, catatan, dan coretan bebas</string>
+    <string name="about_highlight_tools">Pisah dan gabung tanpa kehilangan teks atau font</string>
+    <string name="about_highlight_search">Pencarian teks lengkap dan pemilihan, di halaman mana pun</string>
+    <string name="about_highlight_private">Tanpa izin, tanpa akun, tidak ada yang meninggalkan perangkat</string>
+    <string name="about_contact_title">Punya ide atau butuh sesuatu dibuatkan?</string>
+    <string name="about_contact_body">Untuk pertanyaan, jangan ragu menghubungi kami.</string>
+    <string name="action_visit_us">Hubungi kami</string>
+</resources>
